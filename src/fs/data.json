@@ -1,0 +1,24 @@
+{
+  "apiKeys": [
+    {
+      "id": "6fd86a4d-5d54-49ee-a6c5-b3b406ef72ac",
+      "userEmail": "fares.ayadi@medtech.tn",
+      "deviceId": "device_1769509925082_2690bdf1",
+      "deviceName": "pi zero",
+      "hashedKey": "223594e16eaa32165ed303b31c39c973d845923c786607a463756bb5378d608e",
+      "prefix": "sk_mkwgisi...",
+      "createdAt": "2026-01-27T10:32:05.096Z",
+      "lastUsed": "2026-01-28T23:30:57.828Z",
+      "isActive": true,
+      "name": "pi zero API Key",
+      "permissions": [
+        "execute_commands"
+      ],
+      "metadata": {
+        "createdBy": "fares.ayadi@medtech.tn",
+        "ip": "::ffff:127.0.0.1",
+        "userAgent": "got (https://github.com/sindresorhus/got)"
+      }
+    }
+  ]
+}

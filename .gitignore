@@ -1,0 +1,5 @@
+node_modules
+localtest.py
+pi.py
+simulation.py
+.env

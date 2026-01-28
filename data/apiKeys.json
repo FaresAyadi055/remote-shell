@@ -1,0 +1,43 @@
+{
+  "apiKeys": [
+    {
+      "id": "8f28f970-bb6f-43e4-9058-bd3005e9bd8d",
+      "userEmail": "fares.ayadi@medtech.tn",
+      "hashedKey": "1cbe25316b2ac49a8a11992ed8e3f0765f16a448579a685096bd2e94115ec8f8",
+      "prefix": "sk_mkvlg24...",
+      "createdAt": "2026-01-26T20:02:09.461Z",
+      "lastUsed": null,
+      "isActive": true,
+      "name": "Default API Key",
+      "permissions": [
+        "read"
+      ]
+    },
+    {
+      "id": "f66ecbdd-dbfd-4ab2-9390-7de286c0f2b3",
+      "userEmail": "fares.ayadi@medtech.tn",
+      "hashedKey": "fbffb83b4a0a33b01c8c7fa9525d0d28a771a2a5c766f3a349105d8d46e7f7a0",
+      "prefix": "sk_mkvlkxg...",
+      "createdAt": "2026-01-26T20:05:56.715Z",
+      "lastUsed": null,
+      "isActive": true,
+      "name": "Default API Key",
+      "permissions": [
+        "read"
+      ]
+    },
+    {
+      "id": "08e919f0-2591-4107-9749-11d11a8b5644",
+      "userEmail": "fares.ayadi@medtech.tn",
+      "hashedKey": "3dd2283c606b3d1954b3bba631a82089668935b65503066649122c76b4eb92f6",
+      "prefix": "sk_mkvlohf...",
+      "createdAt": "2026-01-26T20:08:42.562Z",
+      "lastUsed": null,
+      "isActive": true,
+      "name": "Default API Key",
+      "permissions": [
+        "read"
+      ]
+    }
+  ]
+}
