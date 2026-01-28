@@ -1,6 +1,6 @@
 
 
-const URL = 'http://localhost:3000';
+const URL = 'https://remote-shell-2zw3.onrender.com';
 const prefix = "remote@terminal:~$ ";
 const prefixspan = document.getElementById('prefix');
 const outputarea = document.getElementById('outputArea');
